@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "watch-date-picker",
+        "repositoryURL": "git@github.com:raywo/watch-date-picker.git",
+        "state": {
+          "branch": "main",
+          "revision": "628bebb4ce381a97757562bf11df362d8392cedd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
